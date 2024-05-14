@@ -27,7 +27,7 @@ The dataset contains 7796 news articles.
 
 After training and evaluating the model, we achieved an accuracy of 92.82%, demonstrating the effectiveness of the approach in detecting fake news.So with this model, we have 589 true positives, 587 true negatives, 42 false positives, and 49 false negatives.
 
-![Output](file:///Users/pratyekthumula/Downloads/WhatsApp%20Image%202024-05-14%20at%2013.52.41.jpeg)
+![Output](https://github.com/pratyek/Detecting-Fake-News-Project/blob/main/output.jpeg?raw=true)
 
 
 ## Usage
